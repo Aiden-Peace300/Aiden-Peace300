@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FRONT-END DEVELOPER
 -------------------
 
-Saddleback College Honor Alumni with an A.S. in Computer Science. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. Currently, Aiden is a student at Learningfuze and is an innovative developer with a deep passion for programming.
+Saddleback College Honor Alumni with an A.S. in Computer Science. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. Currently, Aiden is a student at LearningFuze Accelerating Learning Programming atmosphere and is an innovative developer with a deep passion for programming.
 
 * 🌍  I'm based in Orange County CA
 * ✉️  You can contact me at [aidenpeace300@gmail.com](mailto:aidenpeace300@gmail.com)
 * 🚀  I'm currently working on [KeyWord Relief](http://aiden-peace300.github.io/KeyWord-Relief-AJAX/)
 * 🧠  I'm learning AJAX
-* ⚡  Fun fact: I have been training in Muay-Thai for a year
+* ⚡  Fun fact: I have been training in Muay Thai for a year
 
 ### Skills
 
@@ -23,9 +23,6 @@ Saddleback College Honor Alumni with an A.S. in Computer Science. NASA L'SPACE M
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /><a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /><a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="python" /><a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /><a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /><a>
-</p>
 
 
 ### Socials
