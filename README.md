@@ -8,7 +8,7 @@ Saddleback College Honor Alumni with an A.S. in Computer Science. NASA L'SPACE M
 
 * 🌍  I'm based in Orange County CA
 * ✉️  You can contact me at [aidenpeace300@gmail.com](mailto:aidenpeace300@gmail.com)
-* 🚀  I'm currently working on [KeyWord Relief](http://aiden-peace300.github.io/KeyWord-Relief-AJAX/)
+* 🚀  I'm currently working on React!
 * 🧠  I'm learning React
 * ⚡  Fun fact: I have been training in Muay Thai for a year
 
