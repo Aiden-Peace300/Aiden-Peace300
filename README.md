@@ -7,10 +7,10 @@ FRONT-END DEVELOPER
 Saddleback College Honor Alumni with an A.S. in Computer Science. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. Currently, Aiden is a student at LearningFuze Accelerating Learning Programming atmosphere and is an innovative developer with a deep passion for programming.
 
 * 🌍  I'm based in Orange County CA
-* ✉️  You can contact me at [aidenpeace300@gmail.com](mailto:aidenpeace300@gmail.com)
-* 🚀  I'm currently working on React!
-* 🧠  I'm learning React
-* ⚡  Fun fact: I have been training in Muay Thai for a year
+* ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com)
+* 🚀  I'm currently working on a react-based project!
+* 🧠  I'm learning React.js, Node.js, and Express.
+* ⚡  Fun fact: I have been training in Muay Thai for a year.
 
 ### Skills
 
