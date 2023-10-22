@@ -8,7 +8,7 @@ Saddleback College Honor Alumni with an A.S. in Computer Science. NASA L'SPACE M
 
 * 🌍  I'm based in Orange County CA
 * ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com)
-* 🚀  I'm currently working on a react-based project!
+* 🚀  I'm currently working on a react-based project called [FilmCritic](http://filmcritic-dev.us-west-1.elasticbeanstalk.com/sign-in)
 * 🧠  I'm learning React.js, Node.js, and Express.
 * ⚡  Fun fact: I have been training in Muay Thai for a year.
 
