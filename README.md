@@ -9,8 +9,8 @@ Saddleback College Honor Alumni with an A.S. in Computer Science received in Jun
 * 🌍  I'm based in Orange County CA
 * ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com)
 * 🚀  I'm currently working on a react-based project called Aiden Peace's Portfolio
-* 🧠  I'm learning React.js, Node.js, and Express.
-* ⚡  Fun fact: I am an avid camper.
+* 🧠  I'm learning C.
+* ⚡  Fun fact: I am an avid camper. My favorite place is Joshua tree national park! 
 
 ### Skills
 
