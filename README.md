@@ -3,12 +3,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 FRONT-END DEVELOPER
 -------------------
-<!------>
+
 Saddleback College Honor Alumni with an A.S. in Computer Science received in June 2023. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. I recently completed the rigorous Full Stack Web Development program at LearningFuze Bootcamp in October 2023. 
 
 * 🌍  I'm based in Orange County CA
 * ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com)
-* 👨🏽‍💻 Currently employed by Budgetwise as a Full-Stack Developer 
+* 👨🏽‍💻 Currently employed at Budgetwise as a Full-Stack Developer 
 * 🚀  I'm currently working on a react-based project called Aiden Peace's Portfolio
 * 🧠  I'm learning C.
 * ⚡  Fun fact: I am an avid camper. My favorite place is Joshua tree national park! 
