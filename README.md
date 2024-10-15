@@ -8,7 +8,7 @@ Saddleback College Honor Alumni with an A.S. in Computer Science received in Jun
 
 * 🌍  I'm based in Orange County CA
 * ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com)
-* 👨🏽‍💻  Currently employed at Budgetwise as a Full-Stack Developer 
+* 👨🏽‍💻  Currently employed at Budgetwise as Lead Full-Stack Developer.
 * 🚀  I'm currently updating a react-based project called FilmCritic
 * 🧠  I'm learning how to become an Interview Pro (CodeSignal / LeetCode)
 * ⚡  Fun fact: I am an avid camper. My favorite place is Joshua Tree National Park.
