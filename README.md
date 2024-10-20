@@ -6,7 +6,7 @@ SOFTWARE ENGINEER
 
 Saddleback College Honor Alumni with an A.S. in Computer Science received in June 2023. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. I've completed the rigorous Full Stack Web Development program at LearningFuze Bootcamp in October 2023. 
 
-* 🌍  I'm based in Orange County CA
+* 🌍  I'm based in Orange County CA.
 * ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com)
 * 👨🏽‍💻  Currently employed at Budgetwise as Lead Full-Stack Developer.
 * 🚀  I'm currently updating a react-based project called FilmCritic.
