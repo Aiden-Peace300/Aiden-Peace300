@@ -11,7 +11,7 @@ Saddleback College Honor Alumni with an A.S. in Computer Science received in Jun
 * 👨🏽‍💻  Currently employed at Budgetwise as Lead Full-Stack Developer.
 * 🚀  I'm currently updating a react-based project called FilmCritic.
 * 🧠  I'm learning how to become an Interview Pro (CodeSignal / LeetCode).
-* ⚡  Fun fact: I am an avid camper. My favorite place is Joshua Tree National Park.
+* ⚡  Fun fact: I am an avid camper. My favorite place is Joshua Tree National Park
 
 ### Skills
 
