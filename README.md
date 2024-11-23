@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aiden Peace
 ===================================================================================================================================
 
-SOFTWARE ENGINEER
+SOFTWARE ENGI
 ----------------------
 
 Saddleback College Honor Alumni with an A.S. in Computer Science received in June 2023. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. I've completed the rigorous Full Stack Web Development program at LearningFuze Bootcamp in October 2023. 
