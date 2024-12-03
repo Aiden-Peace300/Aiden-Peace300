@@ -15,11 +15,12 @@ Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023)
 ### Professional Experience
 👨🏽‍💻 Lead Full-Stack Developer at Budgetwise
 
-* Development efforts for a promising financial management startup.
-* Leading a dynamic team of four developers, driving the end-to-end design and implementation of web applications.
+* Led a team of four developers at a financial management startup, ensuring the successful execution of web development projects over a year.
+* Organized and facilitated regular team meetings, aligning goals and tasks to meet the typical two-week sprint timelines.
 * Architecting scalable and efficient solutions using cutting-edge technologies such as React.js, Node.js, and PostgreSQL.
-* Establishing agile workflows to prioritize tasks, ensure timely delivery, and foster collaboration across the team.
+* Provided one-on-one support and guidance to team members, conducting multiple check-ins weekly to address challenges and maintain project momentum.
 * Successfully delivering key features, including a budgeting application that enables users to track and categorize expenses seamlessly.
+* Actively contributed to sprints by completing tickets, debugging complex issues, and ensuring all deliverables were on schedule.
 
 ### Skills
 
