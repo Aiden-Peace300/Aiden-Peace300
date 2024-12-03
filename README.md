@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SOFTWARE ENGINEER
 -------------------------
 
-Driven and accomplished Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023). Proud participant in NASA's prestigious programs, including the L'SPACE MCA (Summer 2021) and NPWEE (Spring 2022). Graduated from the intensive Full Stack Web Development program at LearningFuze Bootcamp in October 2023, honing advanced software development skills.
+Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023). Proud participant in NASA's prestigious programs, including the L'SPACE MCA and NPWEE. Graduated from the intensive Full Stack Web Development program at LearningFuze Bootcamp in October 2023, honing advanced software development skills. 
 
 * 🌍 Based in Southern California.
 * ✉️ Reachable at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com).
@@ -12,6 +12,15 @@ Driven and accomplished Saddleback College Honor Alumni, holding an A.S. in Comp
 * 🚀  I'm currently updating a react-based project called FilmCritic.
 * 🧠  I'm learning to become an Interview Pro (CodeSignal / LeetCode).
 * ⚡  Fun fact: I am an avid camper. My favorite place is Joshua Tree National Park.
+
+### Professional Experience
+👨🏽‍💻 Lead Full-Stack Developer at Budgetwise
+
+* Development efforts for a promising financial management startup.
+* Leading a dynamic team of four developers, driving the end-to-end design and implementation of web applications.
+* Architecting scalable and efficient solutions using cutting-edge technologies such as React.js, Node.js, and PostgreSQL.
+* Establishing agile workflows to prioritize tasks, ensure timely delivery, and foster collaboration across the team.
+* Successfully delivering key features, including a budgeting application that enables users to track and categorize expenses seamlessly.
 
 ### Skills
 
