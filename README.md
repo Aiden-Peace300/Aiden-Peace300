@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 SOFTWARE ENGINEER
 ------------------
 
-Saddleback College Honor Alumni with an A.S. in Computer Science received in June 2023. NASA L'SPACE MCA Alumni, summer 2021. NASA NPWEE Alumni, spring 2022. I've completed the rigorous Full Stack Web Development program at LearningFuze Bootcamp in October 2023. 
+Driven and accomplished Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023). Proud participant in NASA's prestigious programs, including the L'SPACE MCA (Summer 2021) and NPWEE (Spring 2022). Graduated from the intensive Full Stack Web Development program at LearningFuze Bootcamp in October 2023, honing advanced software development skills.
 
-* 🌍  I'm based in Southern California.
-* ✉️  You can contact me at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com).
+* 🌍 Based in Southern California.
+* ✉️ Reachable at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com).
 * 👨🏽‍💻  Currently employed at Budgetwise as Lead Full-Stack Developer.
 * 🚀  I'm currently updating a react-based project called FilmCritic.
 * 🧠  I'm learning to become an Interview Pro (CodeSignal / LeetCode).
