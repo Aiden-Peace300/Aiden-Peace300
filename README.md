@@ -9,8 +9,8 @@ Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023)
 * 🌍 Based in Southern California.
 * ✉️ Reachable at [aidenpeacecodes@gmail.com](mailto:aidenpeacecodes@gmail.com).
 * 🚀  I'm currently updating a react-based project called FilmCritic.
-* 🧠  I'm learning to become an Interview Pro (CodeSignal / LeetCode).
-* ⚡  Fun fact: I am an avid camper. My favorite place is Joshua Tree National Park.
+* 🧠  Developing advanced problem-solving capabilities through CodeSignal and LeetCode to excel in technical interviews.
+* ⚡  An avid camper with a deep appreciation for nature—Joshua Tree National Park holds a special place in my heart.
 
 ### Professional Experience
 
