@@ -13,7 +13,6 @@ Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023)
 * ⚡  Fun fact: I am an avid camper. My favorite place is Joshua Tree National Park.
 
 ### Professional Experience
-👨🏽‍💻 Lead Full-Stack Developer at Budgetwise
 
 * Led a team of four developers at a financial management startup, ensuring the successful execution of web development projects over a year.
 * Organized and facilitated regular team meetings, aligning goals and tasks to meet the typical two-week sprint timelines.
