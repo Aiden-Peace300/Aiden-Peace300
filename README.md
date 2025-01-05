@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 SOFTWARE ENGINEER
--------------------
+------------------
 
 Saddleback College Honor Alumni, holding an A.S. in Computer Science (June 2023). Proud participant in NASA's prestigious programs, including the L'SPACE MCA and NPWEE. Graduated from the intensive Full Stack Web Development program at LearningFuze Bootcamp in October 2023, honing advanced software development skills. 
 
